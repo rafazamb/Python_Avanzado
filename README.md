@@ -18,13 +18,13 @@
 - ML 3 - Modelos basados en árboles
 - Redes Neuronales y Deep Learning
 
-### Web Scraping y APIs (13/06)
+### Web Scraping y APIs 
 - Fundamentos básicos 
 - Web scraping de HTML con la librería BeautifulSoup
 - Web scraping avanzado con la librería Selenium
 - Llamadas a APIs
 - Automatización de scripts
 
-### PySpark (15/06, 20/06)
+### PySpark 
 - Fundamentos básicos Pyspark
 - Databricks
